@@ -51,8 +51,6 @@ cp1_java_3sem/
 | **URL**   | oracle.fiap.com.br |
 | **Porta** | 1521 |
 | **SID**   | ORCL |
-| **User**  | RM566133 |
-| **Senha** | 280201 |
 
 Configurada em `src/META-INF/persistence.xml` (Persistence Unit: `cp1-oracle`).
 
