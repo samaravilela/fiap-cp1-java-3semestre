@@ -1,0 +1,25 @@
+# Build / Maven (não usado – projeto IntelliJ)
+target/
+out/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE
+.idea/
+# *.iml  (cp1_java_3sem.iml pode ser versionado)
+.vscode/
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
